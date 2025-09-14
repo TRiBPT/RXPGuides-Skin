@@ -1,0 +1,9 @@
+## Interface: 50500
+## Title: RXPGuides Skin
+## Notes: Standalone skin for RXPGuides addon (MoP Classic) with individual frame transparency
+## Author: TRiBPT
+## Version: 1.0.0
+## Dependencies: RXPGuides
+## OptionalDeps: RXP
+
+RXPGuides Skin.lua
